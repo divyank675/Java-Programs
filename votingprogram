@@ -1,0 +1,15 @@
+import java.util.Scanner
+class Vote{
+  public static void main(Strings[] args){
+  Scanner sc= new Scanner(System.in);
+  int age=0;
+  age=sc.nextInt();
+    if(age>18){
+    System.out.println("You are eligible to voee");
+    }else{
+    System.out.println("you are not eligible try at next time");
+    }
+  }
+
+
+}
